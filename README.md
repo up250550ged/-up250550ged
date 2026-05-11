@@ -13,7 +13,7 @@ Mi primer repositorio pro player 😇
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-<img src=¨https://www.bing.com/ck/a?!&&p=646c5b8b2313a57cf71c78ebfc1a9c96f865767c61d43ca9fe6201dfed5dbf03JmltdHM9MTc3ODQ1NzYwMA&ptn=3&ver=2&hsh=4&fclid=3a7afff5-bbb7-6864-20f0-e996bad4690c&u=a1L2ltYWdlcy9zZWFyY2g_cT1kb2dlK21lbWUmaWQ9Rjk0RUI5MzQ5OUNBNzk1MTcyOTNBMENDRkExNTA0QTRBQ0FCNzEyRiZGT1JNPUlRRlJCQQ¨>
+<img src="https://th.bing.com/th/id/R.5a693777d089277a49a7e688c9dc883c?rik=fZHFtdsILG983A&pid=ImgRaw&r=0">
 
 >[!NOTE]
 >Soy Oro en Rainbow Six 👑
